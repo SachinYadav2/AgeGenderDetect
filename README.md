@@ -7,4 +7,4 @@ During validation (val_gender_out_accuracy): 93.45%
 Age Prediction Task:
 
 During training (age_out_accuracy): 0.69%
-During validation (val_age_out_accuracy): 0.00%
+During validation (val_age_out_accuracy): 0.50%
